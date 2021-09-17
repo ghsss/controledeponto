@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.digitalinnovationone.sistema-de-controle-de-ponto' is invalid and this project uses 'com.digitalinnovationone.sistemadecontroledeponto' instead.
+* The original package name 'com.digitalinnovationone.sistema-de-controle-de-ponto' is invalid and this project uses 'com.digitalinnovationone.controledeponto' instead.
 
 # Getting Started
 
